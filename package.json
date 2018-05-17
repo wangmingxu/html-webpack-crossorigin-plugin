@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "html-webpack-crossorigin-plugin@^0.1.0",
+        "scope": null,
+        "escapedName": "html-webpack-crossorigin-plugin",
+        "name": "html-webpack-crossorigin-plugin",
+        "rawSpec": "^0.1.0",
+        "spec": ">=0.1.0 <0.2.0",
+        "type": "range"
+      },
+      "/Users/mingxu/MxProject/example"
+    ]
+  ],
+  "_from": "html-webpack-crossorigin-plugin@>=0.1.0 <0.2.0",
+  "_id": "html-webpack-crossorigin-plugin@0.1.0",
+  "_inCache": true,
+  "_location": "/html-webpack-crossorigin-plugin",
+  "_nodeVersion": "8.1.2",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/html-webpack-crossorigin-plugin-0.1.0.tgz_1502897219654_0.2597486290615052"
+  },
+  "_npmUser": {
+    "name": "dentuzhik",
+    "email": "dentuzhik@gmail.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "html-webpack-crossorigin-plugin@^0.1.0",
+    "scope": null,
+    "escapedName": "html-webpack-crossorigin-plugin",
+    "name": "html-webpack-crossorigin-plugin",
+    "rawSpec": "^0.1.0",
+    "spec": ">=0.1.0 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/html-webpack-crossorigin-plugin/-/html-webpack-crossorigin-plugin-0.1.0.tgz",
+  "_shasum": "9373212f928969b094a1aa13de417cdb8f0fc543",
+  "_shrinkwrap": null,
+  "_spec": "html-webpack-crossorigin-plugin@^0.1.0",
+  "_where": "/Users/mingxu/MxProject/example",
+  "author": {
+    "name": "Denis Tuzhik",
+    "email": "dentuzhik@gmail.com",
+    "url": "https://github.com/dentuzhik"
+  },
+  "bugs": {
+    "url": "https://github.com/dentuzhik/html-webpack-crossorigin-plugin/issues"
+  },
+  "dependencies": {},
+  "description": "Plugin for htlm-webpack-plugin to add crossorigin attribute to injected scripts",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-6kXmmgis/PMUlJrsPk15qvsjFU2WckFyrSN+1h9TyF24PO9+ur7doDjGUMtyLtoMCgf6xuzzWBIx8gtpNjY9GQ==",
+    "shasum": "9373212f928969b094a1aa13de417cdb8f0fc543",
+    "tarball": "https://registry.npmjs.org/html-webpack-crossorigin-plugin/-/html-webpack-crossorigin-plugin-0.1.0.tgz"
+  },
+  "gitHead": "c80b7e761283a5a8eac8b36d1d039d13a8d62ec1",
+  "homepage": "https://github.com/dentuzhik/html-webpack-crossorigin-plugin#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "dentuzhik",
+      "email": "dentuzhik@gmail.com"
+    }
+  ],
+  "name": "html-webpack-crossorigin-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dentuzhik/html-webpack-crossorigin-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
